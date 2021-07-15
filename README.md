@@ -1,3 +1,8 @@
+## Purpose of solution
+
+This is framework for development and backtesting high frequency trading strategies in Java.
+
+
 ## Strategy
 
 Refer to *DataTestStrategy* when build new strategy. It just buys below and sell above market.
