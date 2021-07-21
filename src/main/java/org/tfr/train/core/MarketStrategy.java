@@ -10,6 +10,10 @@ public abstract class MarketStrategy implements MarketListener {
     protected final MarketEmulator market = new MarketEmulator(this);
     protected final TradingSnapshot tradingSnapshot = new TradingSnapshot();
 
+    public TradingSnapshot getTradingSnapshot() {
+        return tradingSnapshot;
+    }
+
     @Override
     public void executionReceived(Execution execution) {
         tradingSnapshot.addTrade(execution);
