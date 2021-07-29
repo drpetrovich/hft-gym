@@ -1,5 +1,5 @@
 
-##How to use the environment
+## How to use the environment
 
 This is the environment to test your strategy ideas. Before you start,
 we assume that you know how the market/limit orders work and understand
