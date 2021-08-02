@@ -1,5 +1,5 @@
 ## Before you start
-1. Install OpenJDK (11 is recommended) and Maven
+1. Install JDK (Open JDK 11 is recommended) and Maven
 2. Build project with command *mvn clean install* from project root directory
 3. Download history file
 
