@@ -1,6 +1,6 @@
 ## Before you start
 1. Install OpenJDK (11 is recommended) and Maven
-2. Build project with command mvn clean *install* from project root directory
+2. Build project with command *mvn clean install* from project root directory
 3. Download history file
 
 ## How to use the environment
